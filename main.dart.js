@@ -104880,7 +104880,7 @@ r=l.w
 r===$&&A.a()
 s=A.aXL(new A.dJ(k,s),18,m,13)
 k=B.c.f2("iA6d5RyvgAwmvr6dHxxS").length!==0
-q=k?"MapTiler | OpenStreetMap contributors":"OpenStreetMap contributors"
+q=k?"MapTiler | OpenStreetMap contributors":"\xa9 OpenStreetMap contributors"
 p=t.p
 q=A.b([new A.ZB(A.aZ(q,m,m,m,A.he(m,m,m,m,B.kB,m,m,m,m,m,m,m,m,m,m,m,m,!0,m,m,m,m,m,m,m,m),m,m),new A.aIl(),m)],p)
 o=k?"https://api.maptiler.com/maps/streets/{z}/{x}/{y}.png?key=iA6d5RyvgAwmvr6dHxxS":u.f
